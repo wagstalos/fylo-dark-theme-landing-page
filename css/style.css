@@ -222,7 +222,7 @@ i{
 }
 .card-news{
     margin: 15px;
-    padding: 20px 80px;
+    padding: 20px 50px;
     background-color: #21293c;
     border-radius: 5px;
     -webkit-box-shadow: 0px 4px 21px 0px rgba(0,0,0,0.75);
@@ -272,6 +272,15 @@ footer img{
 }
 .ml-footer{
     margin-left: 38px;
+}
+@media only screen and (max-width: 1400px) {
+    .container-news {
+        max-width: 70%;
+        margin: 20px auto 0;
+        padding: 0 20px;
+        display: flex;
+        margin-bottom: -204px;
+    }
 }
 @media only screen and (max-width: 800px) {
     .wrapper {
@@ -323,7 +332,7 @@ footer img{
         width: 101px;
         height: 103px;
     }
-
+   
   }
 @media only screen and (max-width: 400px) {
     .headerwrap {
