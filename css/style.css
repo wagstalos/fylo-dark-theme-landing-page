@@ -275,7 +275,7 @@ footer img{
 }
 @media only screen and (max-width: 1400px) {
     .container-news {
-        max-width: 70%;
+        max-width: 80%;
         margin: 20px auto 0;
         padding: 0 20px;
         display: flex;
