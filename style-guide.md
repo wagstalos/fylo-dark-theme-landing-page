@@ -18,7 +18,7 @@ The designs were created to the following widths:
 
 ### Accent
 
-- Cyan (inside call-to-action gradient): hsl(176, 68%, 64%) #81D9D4
+- Cyan (inside call-to-action gradient): hsl(176, 68%, 64%) #81D9D4   #5fddd9 #37a5d5
 - Blue (inside call-to-action gradient): hsl(198, 60%, 50%) #339ECC
 
 ### Neutral
